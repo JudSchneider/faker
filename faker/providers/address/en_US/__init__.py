@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 from collections import OrderedDict
 
-from ..en import Provider as AddressProvider
+from .. import Provider as AddressProvider
 
 
 class Provider(AddressProvider):

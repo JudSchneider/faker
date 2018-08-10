@@ -47,3 +47,7 @@ nosetests.xml
 
 # IDE
 *.sw[po]
+
+# Jud's working folder
+**/data
+test.py
